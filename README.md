@@ -1,3 +1,3 @@
 npm run dev
 
-❯ node api/config.js
+node api/config.js
